@@ -22,12 +22,4 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp 
 </p>
 
-
-<h3>:four_leaf_clover: Follow Me :four_leaf_clover:</h3>
-<p>
-  <a href="https://siyoonn.tistory.com"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white&link=https://siyoonn.tistory.com"/></a>&nbsp
-   <a href="https://www.instagram.com/b_si_yoon"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/b_si_yoon"/></a>&nbsp
-  <a href="mailto:tksemf2543@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tksemf2543@naver.com"/></a>
-
-</p>
 </div>
