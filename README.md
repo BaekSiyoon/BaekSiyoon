@@ -3,7 +3,7 @@
   
 ![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=SiYoon%20Baek&fontSize=80&fontColor=fff&textalign=center)
 
-<p>👋 Hi there 👋</p>
+<p> Hi there :wave:</p>
 <p>I'm Siyoon Baek, a growing developer. 🌱</p>
 
 
@@ -22,4 +22,8 @@
   <img src="https://img.shields.io/badge/bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white"/></a>&nbsp 
 </p>
 
+<h3>:sparkles: Tool :sparkles:</h3>
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
+<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>&nbsp
 </div>
