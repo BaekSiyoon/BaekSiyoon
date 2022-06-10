@@ -26,6 +26,6 @@
 <h3>:four_leaf_clover: Follow Me :four_leaf_clover:</h3>
 <p>
   <a href="https://siyoonn.tistory.com"><img src="https://img.shields.io/badge/Velog-3DDC84?style=flat-square&logo=Blogger&logoColor=white&link=https://siyoonn.tistory.com"/></a>&nbsp
-  <a href="tksemf2543@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=tksemf2543@naver.com"/></a>
+  <a href="tksemf2543@naver.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:tksemf2543@naver.com"/></a>
 </p>
 </div>
