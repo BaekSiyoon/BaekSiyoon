@@ -1,29 +1,37 @@
-
 <div align="center">
-  
-![header](https://capsule-render.vercel.app/api?type=Waving&color=gradient&height=200&section=header&text=SiYoon%20Baek&fontSize=80&fontColor=fff&textalign=center)
 
-<p> Hi there :wave:</p>
+![header](https://capsule-render.vercel.app/api?type=waving&color=FCBF5D&height=200&section=header&text=SiYoon%20Baek&fontSize=80&fontColor=ffffff&animation=fadeIn)
+
+<p>Hi there 👋</p>
 <p>I'm Siyoon Baek, a growing developer. 🌱</p>
 
+<br>
 
-<h3>:books: Tech Stack :books:</h3>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=HTML5&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/CSS-1572B6?style=flat-square&logo=css3&logoColor=white"/></a>&nbsp
-  <img src="https://img.shields.io/badge/Javascript-ffb13b?style=flat-square&logo=javascript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/></a>&nbsp
-  <br>
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=Spring&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/SpringBoot-6DB33F?style=flat-square&logo=SpringBoot&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=MySQL&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=Oracle&logoColor=white"/></a>&nbsp 
+<h3>🎨 Frontend</h3>
 
+<img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white"/>
+<img src="https://img.shields.io/badge/Next.js-111827?style=flat-square&logo=nextdotjs&logoColor=white"/>
+<img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white"/>
+<img src="https://img.shields.io/badge/Tailwind CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white"/>
+<img src="https://img.shields.io/badge/MUI-7C3AED?style=flat-square&logo=mui&logoColor=white"/>
 
-<h3>:sparkles: Tool :sparkles:</h3>
-<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=GitHub&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Visual Studio Code-007ACC?style=flat-square&logo=VisualStudioCode&logoColor=white"/></a>&nbsp 
-<img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat-square&logo=Eclipse&logoColor=white"/></a>&nbsp
-<img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=DBeaver&logoColor=white"/></a>&nbsp 
+<br>
+
+<h3>⚙️ Backend</h3>
+
+<img src="https://img.shields.io/badge/Java-F89820?style=flat-square&logo=openjdk&logoColor=white"/>
+<img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white"/>
+<img src="https://img.shields.io/badge/JPA-009688?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MyBatis-2E7D32?style=flat-square&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white"/>
+
+<br>
+
+<h3>🛠 Tools</h3>
+
+<img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white"/>
+<img src="https://img.shields.io/badge/VS Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white"/>
+<img src="https://img.shields.io/badge/DBeaver-795548?style=flat-square"/>
+<img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white"/>
+
 </div>
